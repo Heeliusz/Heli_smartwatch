@@ -1,0 +1,143 @@
+
+body{
+
+
+}
+
+#smart {
+font-size: 20px;
+    padding: px;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 53%;
+    transform: translate(-50%, -50%);
+/*     background-color: rgb(44, 44, 44); */
+    background-image: url("smartwatch2.png");
+    height:300px;
+    width: 300px;
+    /* border: 5px solid black; */
+    /* border-radius: 20px; */
+}
+
+
+ #pasek1 {
+
+    font-size: 20px;
+    padding: 2px;
+    color: white;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(6, 44, 44);
+     background-image: url("taperta.jpg");
+    height: 166px;
+    width: 137px;
+    border: 3px solid black;
+    border-radius: 26px;
+
+
+} 
+
+/* #pasek2 {
+
+    font-size: 20px;
+    padding: 2px;
+    color: white;
+    position: fixed;
+    bottom: 174%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(6, 44, 44);
+    height: 90px;
+    width: 80px;
+    border: 3px solid black;
+    border-radius: 7px;
+
+} */
+
+
+#alarm
+{
+    font-size: 20px;
+        padding: 2px;
+        color: white;
+        position: fixed;
+        top: 35%;
+        left: 34%;
+        transform: translate(-50%, -50%);
+        background-color: rgb(10, 44, 44);
+        background-image: url("instagram.png");
+        height: 34px;
+        width: 34px;
+        border: 2px solid black;
+        border-radius: 10px;
+}
+    
+#bank
+{
+    font-size: 20px;
+        padding: 2px;
+        color: white;
+        position: fixed;
+        top: 35%;
+        left: 48%;
+        transform: translate(-50%, -50%);
+        background-color: rgb(10, 44, 44);
+    background-image: url("bebo.png");
+      height: 34px;
+        width: 34px;
+        border: 2px solid black;
+        border-radius: 10px;
+}
+#kalen
+{
+    font-size: 20px;
+        padding: 2px;
+        color: white;
+        position: fixed;
+        top: 35%;
+        left: 63%;
+        transform: translate(-50%, -50%);
+        background-color: rgb(10, 44, 44);
+        background-image: url("kalen.png"); 
+    height: 34px;
+        width: 34px;
+        border: 2px solid black;
+        border-radius: 10px;
+}
+  
+#stoper
+{
+    font-size: 20px;
+        padding: 2px;
+        color: white;
+        position: fixed;
+        top: 52%;
+        left: 33.9%;
+        transform: translate(-50%, -50%);
+        background-color: rgb(10, 44, 44);
+        background-image: url("dribbble.png");    
+        height: 34px;  
+        width: 34px;
+        border: 2px solid black;
+        border-radius: 10px;
+}
+
+
+#setings {
+    font-size: 20px;
+        padding: 2px;
+        color: white;
+        position: fixed;
+        top: 52%;
+        left: 48%;
+        transform: translate(-50%, -50%);
+        background-color: rgb(10, 44, 44);
+        background-image: url("seting.png");
+       height: 34px;
+        width: 34px;
+        border: 2px solid black;
+        border-radius: 10px;
+}
