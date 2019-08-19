@@ -1,9 +1,27 @@
-
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
 body{
 
 
 }
-
+#menu {
+    font-size: 20px;
+        padding: px;
+        color: white;
+        position: absolute;
+        top: 50%;
+        left: 48.5%;
+        text-align: center !important;
+        
+       font-family: 'Pacifico', cursive;
+        font-size: 30px;
+        transform: translate(-50%, -50%);
+    /*     background-color: rgb(44, 44, 44); */
+        background-image: url("img/taperta.jpg");
+         height: 166px;
+            width: 137px;
+         border: 5px solid black; 
+         border-radius: 20px; 
+    }
 #smart {
 font-size: 20px;
     padding: px;
@@ -13,7 +31,7 @@ font-size: 20px;
     left: 53%;
     transform: translate(-50%, -50%);
 /*     background-color: rgb(44, 44, 44); */
-    background-image: url("smartwatch2.png");
+    background-image: url("img/smartwatch2.png");
     height:300px;
     width: 300px;
     /* border: 5px solid black; */
@@ -31,7 +49,7 @@ font-size: 20px;
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: rgb(6, 44, 44);
-     background-image: url("taperta.jpg");
+     background-image: url("img/taperta.jpg");
     height: 166px;
     width: 137px;
     border: 3px solid black;
@@ -68,7 +86,7 @@ font-size: 20px;
         left: 34%;
         transform: translate(-50%, -50%);
         background-color: rgb(10, 44, 44);
-        background-image: url("instagram.png");
+        background-image: url("img/instagram.png");
         height: 34px;
         width: 34px;
         border: 2px solid black;
@@ -85,7 +103,7 @@ font-size: 20px;
         left: 48%;
         transform: translate(-50%, -50%);
         background-color: rgb(10, 44, 44);
-    background-image: url("bebo.png");
+    background-image: url("img/bebo.png");
       height: 34px;
         width: 34px;
         border: 2px solid black;
@@ -101,7 +119,7 @@ font-size: 20px;
         left: 63%;
         transform: translate(-50%, -50%);
         background-color: rgb(10, 44, 44);
-        background-image: url("kalen.png"); 
+        background-image: url("img/kalen.png"); 
     height: 34px;
         width: 34px;
         border: 2px solid black;
@@ -118,7 +136,7 @@ font-size: 20px;
         left: 33.9%;
         transform: translate(-50%, -50%);
         background-color: rgb(10, 44, 44);
-        background-image: url("dribbble.png");    
+        background-image: url("img/dribbble.png");    
         height: 34px;  
         width: 34px;
         border: 2px solid black;
@@ -135,7 +153,7 @@ font-size: 20px;
         left: 48%;
         transform: translate(-50%, -50%);
         background-color: rgb(10, 44, 44);
-        background-image: url("seting.png");
+        background-image: url("img/seting.png");
        height: 34px;
         width: 34px;
         border: 2px solid black;
